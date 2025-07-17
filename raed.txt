@@ -1,0 +1,5 @@
+i have cloned this repository 
+first step : git clone "the link of the repository"
+second step : open the repository using the command cd gomycode-team4
+third step : create a branch in this repository with my name
+git branch
