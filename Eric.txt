@@ -1,0 +1,18 @@
+Basic Git Workflow
+git clone https://github.com/Ericokim/gomycode-team4.git
+cd gomycode-team4
+git checkout -b new-branch     # Create and switch to new branch
+git add .                      # Stage all changes
+git commit -m "description"    # Commit with message
+git push origin new-branch     # Push to remote
+
+Branch Management
+git branch                     # List branches
+git checkout branch-name       # Switch branches
+git branch -d branch-name      # Delete local branch
+git push origin -d branch-name # Delete remote branch
+
+Sync with Remote
+git pull origin main          # Get latest changes
+git merge origin/main         # Merge remote changes
+git status                    # Check repo status
