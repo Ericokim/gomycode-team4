@@ -2,4 +2,4 @@ i have cloned this repository
 first step : git clone "the link of the repository"
 second step : open the repository using the command cd gomycode-team4
 third step : create a branch in this repository with my name
-git branch
+fourth step : git push --set-upstream origin raed to push my work on team repositoryg
